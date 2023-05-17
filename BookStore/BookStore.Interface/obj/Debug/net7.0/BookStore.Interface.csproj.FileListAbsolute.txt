@@ -1,0 +1,15 @@
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/bin/Debug/net7.0/BookStore.Interface.deps.json
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/bin/Debug/net7.0/BookStore.Interface.dll
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/bin/Debug/net7.0/BookStore.Interface.pdb
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/bin/Debug/net7.0/BookStore.Domain.dll
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/bin/Debug/net7.0/BookStore.Domain.pdb
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/BookStore.Interface.csproj.AssemblyReference.cache
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/BookStore.Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/BookStore.Interface.AssemblyInfoInputs.cache
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/BookStore.Interface.AssemblyInfo.cs
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/BookStore.Interface.csproj.CoreCompileInputs.cache
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/BookStore.Interface.csproj.CopyComplete
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/BookStore.Interface.dll
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/refint/BookStore.Interface.dll
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/BookStore.Interface.pdb
+/Users/brunorondon/Documents/Projetos/BackendProvaConceitoTimeIAGRO/BookStore/BookStore.Interface/obj/Debug/net7.0/ref/BookStore.Interface.dll

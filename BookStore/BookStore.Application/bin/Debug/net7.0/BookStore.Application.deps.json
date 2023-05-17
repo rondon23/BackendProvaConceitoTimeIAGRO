@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BookStore.Application/1.0.0": {
+        "dependencies": {
+          "BookStore.Domain": "1.0.0",
+          "BookStore.Repository": "1.0.0"
+        },
+        "runtime": {
+          "BookStore.Application.dll": {}
+        }
+      },
+      "BookStore.Domain/1.0.0": {
+        "runtime": {
+          "BookStore.Domain.dll": {}
+        }
+      },
+      "BookStore.Interface/1.0.0": {
+        "dependencies": {
+          "BookStore.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BookStore.Interface.dll": {}
+        }
+      },
+      "BookStore.Repository/1.0.0": {
+        "dependencies": {
+          "BookStore.Domain": "1.0.0",
+          "BookStore.Interface": "1.0.0"
+        },
+        "runtime": {
+          "BookStore.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookStore.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookStore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookStore.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookStore.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

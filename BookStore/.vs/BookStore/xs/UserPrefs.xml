@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{14691F8A-EE2C-42A8-AA47-4740EB3B9327}|https">
+  <MonoDevelop.Ide.ItemProperties.BookStore.Tests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookStore.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
