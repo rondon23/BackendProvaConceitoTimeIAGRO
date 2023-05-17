@@ -43,7 +43,7 @@ public class BookStoreController : ControllerBase
         {
             return Ok(_bookStoreService.GetByParameters(filter));
         }
-        catch (System.Exception)
+        catch (ArgumentNullException)
         {
             return NotFound("Nothing was found with these parameters!");
         }
@@ -60,7 +60,7 @@ public class BookStoreController : ControllerBase
         }
         catch (ArgumentNullException)
         {
-            return NotFound();
+            return NotFound("book not found");
         }
     }
 }

@@ -30,12 +30,20 @@ namespace BookStore.Repository.Repositories
         {
             var booksFiltered = parameters.Filtered(_books);
 
+            if (booksFiltered.Count() == 0)
+                throw new ArgumentNullException("Book not found.");
+
             return booksFiltered;
         }
 
         public Book GetBookById(int id)
         {
-            return _books.FirstOrDefault(b => b.Id == id);
+            var booksFiltered = _books.FirstOrDefault(b => b.Id == id);
+
+            if (booksFiltered is null)
+                throw new ArgumentNullException("Book not found.");
+
+            return booksFiltered;
         }
     }
 }

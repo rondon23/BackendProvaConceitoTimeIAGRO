@@ -6,7 +6,19 @@ namespace BookStore.Domain.Dtos
 
     public class BooksQueryParameters
     {
-            public string name { get; set; } = "";
+        public BooksQueryParameters(string name, decimal price, string originally_published, string author, int page_count, string illustrator, string genres, bool orderAsc)
+        {
+            this.name = name;
+            this.price = price;
+            this.originally_published = originally_published;
+            this.author = author;
+            this.page_count = page_count;
+            this.illustrator = illustrator;
+            this.genres = genres;
+            this.orderAsc = orderAsc;
+        }
+
+        public string name { get; set; } = "";
             public decimal price { get; set; } = 0;
             public string originally_published { get; set; } = "";
             public string author { get; set; } = "";
@@ -15,6 +27,9 @@ namespace BookStore.Domain.Dtos
             public string genres { get; set; } = "";
             public bool orderAsc { get; set; } = true;
     }
+
+
+
 
         public static class BooksQueryParametersStatic
         {
