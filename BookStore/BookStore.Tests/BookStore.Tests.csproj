@@ -28,5 +28,6 @@
     <ProjectReference Include="..\BookStore.Domain\BookStore.Domain.csproj" />
     <ProjectReference Include="..\BookStore.Interface\BookStore.Interface.csproj" />
     <ProjectReference Include="..\BookStore.Repository\BookStore.Repository.csproj" />
+    <ProjectReference Include="..\BookStore.API\BookStore.API.csproj" />
   </ItemGroup>
 </Project>
